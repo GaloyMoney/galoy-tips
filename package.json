@@ -58,7 +58,7 @@
     "@types/node": "^20.2.5",
     "@types/original-url": "^1.2.0",
     "@types/prettier": "^2.7.0",
-    "@types/react": "^17.0.30",
+    "@types/react": "^18.2.42",
     "@types/react-dev-utils": "^9.0.11",
     "@types/react-dom": "^17.0.0",
     "@types/react-lottie": "^1.2.6",
